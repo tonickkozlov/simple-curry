@@ -1,0 +1,19 @@
+{
+  "name": "simplecurry",
+  "version": "1.0.0",
+  "description": "A simple 'curry' implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape index.spec.js"
+  },
+  "keywords": [
+    "javascript",
+    "curry"
+  ],
+  "author": "Anton Kozlov <tonickkozlov@me.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "tape": "^4.6.3"
+  }
+}
